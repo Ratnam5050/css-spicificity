@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.container{
+background-color: rgb(221, 215, 250);
+
+}
+.block{
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid rgb(6, 40, 45);    
+    background-color:royalblue; 
+}
+.inline{
+    display: inline; 
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid rgb(21, 21, 30);  
+    background-color: rgb(181, 141, 163); 
+}
+.inline-block{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid rgb(147, 9, 27);    
+    background-color: burlywood; 
+}
